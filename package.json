@@ -1,0 +1,24 @@
+{
+  "name": "palm-wars",
+  "version": "0.0.1",
+  "description": "",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m0wh/palm-wars.git"
+  },
+  "keywords": [
+    "game",
+    "rock-paper-scissors"
+  ],
+  "author": "Malo Widerspach",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/m0wh/palm-wars/issues"
+  },
+  "homepage": "https://github.com/m0wh/palm-wars#readme",
+  "dependencies": {}
+}
